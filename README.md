@@ -11,18 +11,18 @@ This is a standard bash script, you need to run it with root account.
   ![ALT](../Referentiel/launch_2.png)
 
 # -Functions
-  - create_folder : create a working directory for the output.
-  - user : list all system users.
-  - auth_log : retrieve the contents of /var/auth.log file.
-  - modif_file : lists all system files by modification date.
-  - md5_sum : MD5 hash of each /var/log files.
-  - proc : list all processes in memory.
-  - network : list network connections.
-  - privesc : lists incorrectly assigned rights on certain files.
-  - persistance : retrieve the contents of /etc/crontab.
-  - docker_list : list the working dockers.
-  - bash_history : retrieve the command history of each system user.
-  - env_linux : retrieve the current user's environment variables.
+  - **create_folder** : create a working directory for the output.
+  - **user** : list all system users.
+  - **auth_log** : retrieve the contents of /var/auth.log file.
+  - **modif_file** : lists all system files by modification date.
+  - **md5_sum** : MD5 hash of each /var/log files.
+  - **proc** : list all processes in memory.
+  - **network** : list network connections.
+  - **privesc** : lists incorrectly assigned rights on certain files.
+  - **persistance** : retrieve the contents of /etc/crontab.
+  - **docker_list** : list the working dockers.
+  - **bash_history** : retrieve the command history of each system user.
+  - **env_linux** : retrieve the current user's environment variables.
 
 # -To do list
   - Add banner and help information.
