@@ -6,9 +6,9 @@ This is a standard bash script, you need to run it with root account.
 
   `.\Linux_live_collector.sh`
 
-  ![ALT](../Referentiel/launch_1.png)
+  ![ALT](/Referentiel/launch_1.png)
 
-  ![ALT](../Referentiel/launch_2.png)
+  ![ALT](/Referentiel/launch_2.png)
 
 # -Functions
   - **create_folder** : create a working directory for the output.
